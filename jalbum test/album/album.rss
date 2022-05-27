@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>jalbum test</title>
+   	<link>.</link>
+        <generator>jAlbum 28.1</generator>
+   		<description></description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+        <item>
+            <title>May16Saturn1wav_W</title>
+            <link>slides/May16Saturn1wav_W.jpg</link>
+            <pubDate>Thu, 26 May 2022 15:01:53 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/May16Saturn1wav_W.jpg" width="212" height="170"/>
+            <media:content type="image/jpeg" url="slides/May16Saturn1wav_W.jpg" width="640" height="480"/>
+            <guid isPermaLink="false">slides/May16Saturn1wav_W.jpg</guid>
+        </item>
+        <item>
+            <title>Jupiter w/o south equatorial belt.</title>
+            <link>slides/img_1756%20%28Modified%29_W.jpg</link>
+            <pubDate>Thu, 26 May 2022 15:01:53 -0400</pubDate>
+            <description>Note that the southern equatorial belt has disappeared.</description>
+            <media:description type="html">Note that the southern equatorial belt has disappeared.</media:description>
+            <media:thumbnail url="thumbs/img_1756%20%28Modified%29_W.jpg" width="212" height="170"/>
+            <media:content type="image/jpeg" url="slides/img_1756%20%28Modified%29_W.jpg" width="436" height="339"/>
+            <jalbum:exif originalDate="Sun, 12 Sep 2010 15:44:57 -0400" cameraMake="Canon" cameraModel="Canon EOS DIGITAL REBEL XT"/>
+            <guid isPermaLink="false">slides/img_1756%20%28Modified%29_W.jpg</guid>
+        </item>
+        <item>
+            <title>JupiterIm573_W</title>
+            <link>slides/JupiterIm573_W.jpg</link>
+            <pubDate>Thu, 26 May 2022 15:01:53 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/JupiterIm573_W.jpg" width="212" height="170"/>
+            <media:content type="image/jpeg" url="slides/JupiterIm573_W.jpg" width="736" height="667"/>
+            <jalbum:exif originalDate="Tue, 18 Apr 2006 12:24:42 -0400" cameraMake="Canon" cameraModel="Canon EOS DIGITAL REBEL XT"/>
+            <guid isPermaLink="false">slides/JupiterIm573_W.jpg</guid>
+        </item>
+        <item>
+            <title>JupiterMoonsImg551_W</title>
+            <link>slides/JupiterMoonsImg551_W.jpg</link>
+            <pubDate>Thu, 26 May 2022 15:01:53 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/JupiterMoonsImg551_W.jpg" width="212" height="170"/>
+            <media:content type="image/jpeg" url="slides/JupiterMoonsImg551_W.jpg" width="760" height="566"/>
+            <jalbum:exif originalDate="Tue, 18 Apr 2006 11:52:51 -0400" cameraMake="Canon" cameraModel="Canon EOS DIGITAL REBEL XT"/>
+            <guid isPermaLink="false">slides/JupiterMoonsImg551_W.jpg</guid>
+        </item>
+        <item>
+            <title>SaturnIm566_W</title>
+            <link>slides/SaturnIm566_W.jpg</link>
+            <pubDate>Thu, 26 May 2022 15:01:53 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/SaturnIm566_W.jpg" width="212" height="170"/>
+            <media:content type="image/jpeg" url="slides/SaturnIm566_W.jpg" width="944" height="736"/>
+            <jalbum:exif originalDate="Tue, 18 Apr 2006 12:12:42 -0400" cameraMake="Canon" cameraModel="Canon EOS DIGITAL REBEL XT"/>
+            <guid isPermaLink="false">slides/SaturnIm566_W.jpg</guid>
+        </item>
+        <item>
+            <title>Close up view of Jupiter</title>
+            <link>slides/JupDec11Q20crop_W.jpg</link>
+            <pubDate>Thu, 26 May 2022 15:01:53 -0400</pubDate>
+            <description>A zoomed view of Jupiter.</description>
+            <media:description type="html">A zoomed view of Jupiter.</media:description>
+            <media:thumbnail url="thumbs/JupDec11Q20crop_W.jpg" width="212" height="170"/>
+            <media:content type="image/jpeg" url="slides/JupDec11Q20crop_W.jpg" width="269" height="198"/>
+            <guid isPermaLink="false">slides/JupDec11Q20crop_W.jpg</guid>
+        </item>
+        <item>
+            <title>Saturn</title>
+            <link>slides/IMG_0488sm_W.jpg</link>
+            <pubDate>Thu, 26 May 2022 15:01:53 -0400</pubDate>
+            <description>Taken with a Canon Digital Rebel XT and Meade 12&quot; LX200. Test 1.</description>
+            <media:description type="html">Taken with a Canon Digital Rebel XT and Meade 12&quot; LX200. Test 1.</media:description>
+            <media:thumbnail url="thumbs/IMG_0488sm_W.jpg" width="212" height="170"/>
+            <media:content type="image/jpeg" url="slides/IMG_0488sm_W.jpg" width="640" height="474"/>
+            <jalbum:exif originalDate="Sat, 21 Jan 2006 11:22:08 -0500" cameraMake="Canon" cameraModel="Canon EOS DIGITAL REBEL XT"/>
+            <guid isPermaLink="false">slides/IMG_0488sm_W.jpg</guid>
+        </item>
+    </channel>
+</rss>

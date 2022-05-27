@@ -1,0 +1,15 @@
+# This file is created by jAlbum. It sets custom file filtering and ordering for this image directory.
+# Files not listed here are added to the end of the album
+# Rows beginning with "-" indicate excluded files.
+# Rows can have up to 3 tab separated columns according to this scheme:
+# File name | Target path (for links) | When added (seconds since epoch)
+# Note: The target path can reference files and directories in other locations and thereby
+# allows you to compile albums consisting of files from several different locations.
+
+May16Saturn1wav_W.jpg		1653591713
+img_1756 (Modified)_W.jpg		1653591713
+JupiterIm573_W.jpg		1653591713
+JupiterMoonsImg551_W.jpg		1653591713
+SaturnIm566_W.jpg		1653591713
+JupDec11Q20crop_W.jpg		1653591713
+IMG_0488sm_W.jpg		1653591713
